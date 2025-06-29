@@ -1,0 +1,15 @@
+tiktok.com
+*.tiktok.com
+*.byteoversea.com
+*.bytecdn.com
+*.snssdk.com
+*.tiktokcdn.com
+*.tiktokcdn-us.com
+*.pstatp.com
+*.muscdn.com
+*.musical.ly
+*.bytefcdn-oversea.com
+*.tiktokv.com
+*.sgsnssdk.com
+*.log.byteoversea.com
+*.hotsoon.snssdk.com
