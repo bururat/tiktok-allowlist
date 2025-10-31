@@ -1,0 +1,42 @@
+# Windows Update
+windowsupdate.com
+*.windowsupdate.com
+update.microsoft.com
+*.update.microsoft.com
+wustat.windows.com
+ntservicepack.microsoft.com
+statsfe2.update.microsoft.com
+fe3.delivery.mp.microsoft.com
+*.delivery.mp.microsoft.com
+sls.update.microsoft.com
+
+# Microsoft Telemetry & Diagnostics
+v10.vortex-win.data.microsoft.com
+v20.vortex-win.data.microsoft.com
+settings-win.data.microsoft.com
+watson.telemetry.microsoft.com
+*.watson.telemetry.microsoft.com
+redir.metaservices.microsoft.com
+choice.microsoft.com
+*.choice.microsoft.com
+oca.telemetry.microsoft.com
+sqm.telemetry.microsoft.com
+telecommand.telemetry.microsoft.com
+*.telemetry.microsoft.com
+
+# Microsoft Store & App Updates
+displaycatalog.mp.microsoft.com
+*.displaycatalog.mp.microsoft.com
+clientconfig.passport.net
+*.clientconfig.passport.net
+
+# Connectivity & NCSI (Network Status)
+msftncsi.com
+www.msftncsi.com
+*.msftncsi.com
+
+# OneDrive & Office (เลือกบล็อกเฉพาะถ้าไม่ต้องการ)
+# (แนะนำ: อย่าบล็อกหากยังใช้ OneDrive/Office)
+# oneclient.sfx.ms
+# *.office.com
+# *.office.net
